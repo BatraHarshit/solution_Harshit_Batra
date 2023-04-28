@@ -1,0 +1,14 @@
+{
+    "name": "solution_harshit_hatra",
+    "version": "1.0.0",
+    "description": "Javascript Assignment",
+    "main": "index.js",
+    "author": "Harshit Batra",
+    "scripts": {
+        "test": "mocha",
+        "solution": "node index.js"
+    },
+    "dependencies": {
+        "mocha": "^10.2.0"
+    }
+}
